@@ -1,0 +1,37 @@
+body {
+    margin: 60px 0px 60px 0px;
+    font-family: 'Lato', sans-serif;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+#content {
+    display: block;
+    text-align: right;
+    padding: 30px 40px 30px 80px;
+    border: 8px solid black;
+    border-right: 0px;
+    display: block;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 100%;
+}
+
+p {
+    font-size: 80%;
+}
+
+img {
+    align-content: left;
+
+}

@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(64, 228, 113);
+}
+
+div#head {
+    background-image: url(../img/laughing1.jpg);
+    background-attachment: fixed;
+    border: 4px solid black;
+    margin: 4px;
+    padding: 4px;
+}
+
+div#paragraph {
+    background-image: url(../img/laughing2.jpg);
+    background-size: contain;
+    margin: 4px;
+    border: 4px solid lightblue;
+}
