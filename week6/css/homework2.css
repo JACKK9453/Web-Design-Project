@@ -1,0 +1,85 @@
+body {
+    background-color: black;
+    max-width: 1024px;
+    margin: auto;
+    padding: 10px 0px 0px 0px;
+}
+
+#head {
+    display: flex;
+    padding: 0px 0px 10px 0px;
+    flex-direction: column;
+}
+
+#top {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#logo {
+    background-color: #f1f1f1;
+}
+
+#phone {
+    text-align: right;
+    background-color: #f1f1f1;
+
+}
+
+#menu {
+    display: flex;
+    background-color: #f1f1f1;
+    margin: 10px 0px 10px 0px;
+}
+
+#menu img {
+    width: 40px;
+}
+
+#slide {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f1f1f1;
+    height: 300px;
+    margin: 0px 0px 10px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+#feat {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img {
+
+    text-align: center;
+    width: 23%;
+    background-color: #f1f1f1;
+    margin: 5px 0px 5px 0px;
+}
+
+#center {
+    text-align: center;
+    display: flex;
+    margin: 10px 0px 0px 0px;
+}
+
+#content {
+    width: 70%;
+    background-color: #f1f1f1;
+    margin: 0px 10px 0px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+#side {
+    width: 30%;
+    background-color: #f1f1f1;
+    margin: 0px 0px 0px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #f1f1f1;
+}
