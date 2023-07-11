@@ -1,0 +1,57 @@
+body {
+    max-width: 1024px;
+    margin: auto;
+    background-color: black;
+}
+
+#top {
+    margin: 10px 0px 0px 0px;
+    background-color: rgb(176, 176, 248);
+    padding: 10px 10px 10px 10px;
+}
+
+#head {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0px 10px 0px;
+
+}
+
+#head img {
+    width: 100px;
+}
+
+#logo {
+    background-color: #f1f1f1;
+    margin: 0px 0px 110px 0px;
+    padding: 10px;
+}
+
+#photo {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+}
+
+#intro {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+#content {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(176, 176, 248);
+    padding: 10px;
+    margin: 10px 0px;
+}
+
+.feat {
+    background-color: #f1f1f1;
+    width: 24%;
+}
+
+.feat p {
+    font-size: smaller;
+}
