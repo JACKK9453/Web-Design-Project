@@ -1,0 +1,66 @@
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #d9d9d9;
+    padding: 10px 0px;
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+}
+
+#background_img {
+    position: relative;
+    z-index: -1;
+}
+
+#background_img img {
+    background-image: url("../img/cyber\ security.jpg");
+    max-width: 100%;
+}
+
+#text1 {
+    position: absolute;
+    top: 25%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: -webkit-fill-available;
+    font-size: 50px;
+
+}
+
+.logo {
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+
+#About {
+    background-color: #a8a196;
+    position: relative;
+}
+
+.topic {
+    background-color: black;
+    color: white;
+    padding: 20px 30px;
+}
+
+
+
+#degree {
+    width: 20%;
+    position: absolute;
+    top: 40%;
+    right: 20%;
+}
+
+#up {
+    background-color: #7d7463;
+    padding: 0px 0px 1px 0px;
+}
+
+#down {
+    background-color: #d9d9d9;
+    padding: 1px;
+}
