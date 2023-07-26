@@ -319,7 +319,7 @@ a:-webkit-any-link {
     text-align: center;
     background-color: #323232;
     position: relative;
-    height: 500px;
+    height: 600px;
 }
 
 .platform_detail h3 {
@@ -493,6 +493,14 @@ a:-webkit-any-link {
 }
 
 @media screen and (max-width:1000px) {
+    #education {
+        width: 60%;
+    }
+
+    #experince{
+        width:60%;
+    }
+    
     .project_details img {
         max-width: 90%;
     }
@@ -532,6 +540,14 @@ a:-webkit-any-link {
 
 
 @media screen and (max-width:600px) {
+    #education {
+        width: 70%;
+    }
+
+    #experince{
+        width:70%;
+    }
+
     #testimonial {
         display: flex;
         flex-direction: column;
